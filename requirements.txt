@@ -1,6 +1,8 @@
 streamlit
-pandas
-numpy
-requests
-google-genai
-python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+duckduckgo-search
+ddgs
